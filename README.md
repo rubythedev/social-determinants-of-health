@@ -114,10 +114,3 @@ This analysis highlights **critical health disparities** linked to **demographic
 📌 **Integrate additional datasets** to track health trends over time.  
 📌 **Apply machine learning models** to predict future healthcare needs based on SDOH factors.  
 📌 **Expand the analysis to other states** to assess nationwide health disparities.  
-
----
-
-## **Connect & Explore**
-🔗 **View the Dashboard**: [SDOH Analytics Dashboard](https://public.tableau.com/app/profile/yourname/viz/SDOH_Analysis/Overview)  
-📧 **Contact**: your.email@example.com  
-📍 **GitHub Repository**: [SDOH-Analysis](https://github.com/yourusername/SDOH-Analysis)  
