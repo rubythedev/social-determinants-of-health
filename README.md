@@ -3,9 +3,9 @@
 ## **Project Overview**
 This project analyzes the **impact of social determinants of health (SDOH) on healthcare access and health outcomes** across California. By visualizing key metrics such as **poor health rates, healthcare professional shortage areas (HPSA scores), air quality, obesity, and food access**, this dashboard provides **data-driven insights to inform policy decisions and healthcare interventions**.
 
-🚀 **This analysis aligns with Healthfirst’s mission** of improving **health outcomes, increasing member satisfaction, and optimizing resource allocation** for underserved populations.
+The **SDOH Dashboard** uses **data analysis and visualization** to examine how **demographics, healthcare access, and environmental factors** impact health outcomes, highlighting disparities in **high-Hispanic, low-access areas**.
 
-![SDOH Overview](https://public.tableau.com/app/profile/ruby.nunez/viz/SocialDeterminantsofHealth_17387310659210/HRSummary?publish=yes)
+![SDOH Overview](https://github.com/rubythedev/social-determinants-of-health/blob/main/SDOH_Overview.png)
 
 ## **Dataset**
 The dataset integrates multiple **public health and environmental data sources**, covering **2,585 ZIP codes across California**.
